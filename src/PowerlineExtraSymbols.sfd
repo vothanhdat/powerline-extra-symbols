@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: PowerlineExtraSymbols
 FullName: PowerlineExtraSymbols
 FamilyName: PowerlineExtraSymbols
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1168259284
-ModificationTime: 1566034175
+ModificationTime: 1783235636
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -77,7 +77,7 @@ StdVW 4 [76]
 StemSnapH 35 [12 20 44 48 68 76 116 120 126 202]
 StemSnapV 31 [10 14 27 34 46 52 61 67 76 87]
 EndPrivate
-BeginChars: 65563 240
+BeginChars: 65563 242
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -37365,7 +37365,7 @@ StartChar: uniE0C9
 Encoding: 57545 57545 238
 Width: 1229
 VWidth: 0
-Flags: HO
+Flags: H
 LayerCount: 2
 Fore
 SplineSet
@@ -37458,6 +37458,38 @@ SplineSet
  161.8984375 1292.33300781 -7.6611328125 999.760742188 -7.6611328125 609.66015625 c 0
  -7.6611328125 219.565429688 161.8984375 -71.8984375 501.013671875 -264.728515625 c 0
  656.015625 -355.314453125 809.1875 -404.759765625 960.533203125 -413.075195312 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0D6
+Encoding: 57558 57558 240
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+150 615 m 1
+ 1085 -413 l 1
+ 144 -416 l 1
+ 144 1637 l 1
+ 1084 1637 l 1
+ 150 615 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0D7
+Encoding: 57559 57559 241
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1079 615 m 1
+ 145 1637 l 1
+ 1085 1637 l 1
+ 1085 -416 l 1
+ 144 -413 l 1
+ 1079 615 l 1
 EndSplineSet
 EndChar
 EndChars
