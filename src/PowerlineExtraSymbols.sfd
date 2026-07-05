@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: PowerlineExtraSymbols
 FullName: PowerlineExtraSymbols
 FamilyName: PowerlineExtraSymbols
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1168259284
-ModificationTime: 1566034175
+ModificationTime: 1783236253
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -77,7 +77,7 @@ StdVW 4 [76]
 StemSnapH 35 [12 20 44 48 68 76 116 120 126 202]
 StemSnapV 31 [10 14 27 34 46 52 61 67 76 87]
 EndPrivate
-BeginChars: 65563 240
+BeginChars: 65563 248
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -37365,7 +37365,7 @@ StartChar: uniE0C9
 Encoding: 57545 57545 238
 Width: 1229
 VWidth: 0
-Flags: HO
+Flags: H
 LayerCount: 2
 Fore
 SplineSet
@@ -37458,6 +37458,136 @@ SplineSet
  161.8984375 1292.33300781 -7.6611328125 999.760742188 -7.6611328125 609.66015625 c 0
  -7.6611328125 219.565429688 161.8984375 -71.8984375 501.013671875 -264.728515625 c 0
  656.015625 -355.314453125 809.1875 -404.759765625 960.533203125 -413.075195312 c 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0D6
+Encoding: 57558 57558 240
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+150 615 m 1
+ 1085 -413 l 1
+ 144 -416 l 1
+ 144 1637 l 1
+ 1084 1637 l 1
+ 150 615 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0D7
+Encoding: 57559 57559 241
+Width: 1229
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1079 615 m 1
+ 145 1637 l 1
+ 1085 1637 l 1
+ 1085 -416 l 1
+ 144 -413 l 1
+ 1079 615 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0DA
+Encoding: 57562 57562 242
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -527 m 1
+ 0 1273 l 2
+ 0 1613 275 1888 615 1888 c 2
+ 1233 1888 l 1
+ 1233 -527 l 1
+ 0 -527 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0DB
+Encoding: 57563 57563 243
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -527 m 1
+ 0 1888 l 1
+ 618 1888 l 2
+ 958 1888 1233 1613 1233 1273 c 2
+ 1233 -527 l 1
+ 0 -527 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0DC
+Encoding: 57564 57564 244
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 1888 m 1
+ 1233 1888 l 1
+ 1233 -527 l 1
+ 615 -527 l 2
+ 275 -527 0 -252 0 88 c 2
+ 0 1888 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0DD
+Encoding: 57565 57565 245
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 1888 m 1
+ 1233 1888 l 1
+ 1233 88 l 2
+ 1233 -252 958 -527 618 -527 c 2
+ 0 -527 l 1
+ 0 1888 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE0D8
+Encoding: 57560 57560 246
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 88 m 2
+ 0 1273 l 2
+ 0 1613 275 1888 615 1888 c 2
+ 1233 1888 l 1
+ 1233 -527 l 1
+ 615 -527 l 2
+ 275 -527 0 -252 0 88 c 2
+EndSplineSet
+EndChar
+
+StartChar: uniE0D9
+Encoding: 57561 57561 247
+Width: 1233
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -527 m 1
+ 0 1888 l 1
+ 618 1888 l 2
+ 958 1888 1233 1613 1233 1273 c 2
+ 1233 88 l 2
+ 1233 -252 958 -527 618 -527 c 2
+ 0 -527 l 1
 EndSplineSet
 EndChar
 EndChars
